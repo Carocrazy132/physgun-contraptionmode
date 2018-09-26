@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"	"Physgun Contraption Mode"
+	"version"	"1"
+	"up_date"	"09/13/2018"
+	"author_name"	"Richard Christley"
+	"author_url"	"n/a"
+	"info"	"s"
+	"override"	"0"
+}
